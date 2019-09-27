@@ -1,3 +1,8 @@
+This Project follows the React Tutorial by Net Ninja! 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
